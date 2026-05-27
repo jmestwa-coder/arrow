@@ -36,3 +36,4 @@ benchmark:
     array.collect.to_a
   values: |-
     array.values
+
